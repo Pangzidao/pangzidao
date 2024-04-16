@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nicolas Le Jeune</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
-
-- 🌱 I’m currently learning **Front-end development**
 
 - 📫 How to reach me **nicolasyvonlejeune@gmail.com**
 
